@@ -2,7 +2,7 @@
 - 👀  I’m interested in Full Stack Software Development
 - 🌱  I’m currently delving into Web 3.0
 - 💞️  I’m looking to collaborate on Full Stack Software Development
-- 📫  You can reach me at brandonparks2020@gmail.com
+- 📫  You can reach me at parksthecoder@gmail.com
 - 🍻  Connect with me on LinkedIn at linkedin.com/in/brandon-parks-software-dev
 
 <!---
