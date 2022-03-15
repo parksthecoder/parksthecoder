@@ -1,8 +1,9 @@
 - 👋  Hi, I’m @parksthecoder -> (Brandon Parks)
-- 👀  I’m interested in Full Stack Development...
-- 🌱  I’m currently studying with Thinkful...
-- 💞️  I’m looking to collaborate on Full Stack Development...
-- 📫  You can find me on Twitter @parksthegreen
+- 👀  I’m interested in Full Stack Software Development
+- 🌱  I’m currently delving into Web 3.0
+- 💞️  I’m looking to collaborate on Full Stack Software Development
+- 📫  You can reach me at brandonparks2020@gmail.com
+- 🍻  Connect with me on LinkedIn at linkedin.com/in/brandon-parks-software-dev
 
 <!---
 parksthecoder/parksthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
