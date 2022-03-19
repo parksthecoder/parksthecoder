@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @parksthecoder -> (Brandon Parks)
 - 👀  I’m interested in Full Stack Software Development
-- 💻  I am skilled in the PERN stack. (P)ostgreSQL - (E)xpress - (R)eact - (N)ode.js
+- 💻  I am skilled in the PERN stack. (P)ostgreSQL - (E)xpress - (R)eact - (N)ode.js using JavaScript - HTML5 - CSS3
 - 🌱  I’m currently delving into Web 3.0
 - 💞️  I’m looking to collaborate on Full Stack Software Development
 - 📫  You can reach me at parksthecoder@gmail.com
